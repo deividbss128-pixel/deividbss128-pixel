@@ -2,10 +2,7 @@
 🪐 Deivid Breno
 </h1>
 
-### **`🎓 Engenharia da Computação @ CEFET-MG`**
-
-Estudante de Engenharia da Computação.
-
+### **`🎓 Engenharia da Computação @ CEFET-MG Timóteo`**
 ---
 
 ### ⌨️ Principais lingagens estudadas
